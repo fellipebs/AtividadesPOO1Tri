@@ -1,0 +1,7 @@
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\bin\Debug\Exemplo1Objetos.exe.config
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\bin\Debug\Exemplo1Objetos.exe
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\bin\Debug\Exemplo1Objetos.pdb
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\obj\Debug\Exemplo1Objetos.csprojAssemblyReference.cache
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\obj\Debug\Exemplo1Objetos.csproj.CoreCompileInputs.cache
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\obj\Debug\Exemplo1Objetos.exe
+H:\POO\PrimeiroTrimestre\Exemplo1Objetos\Exemplo1Objetos\obj\Debug\Exemplo1Objetos.pdb

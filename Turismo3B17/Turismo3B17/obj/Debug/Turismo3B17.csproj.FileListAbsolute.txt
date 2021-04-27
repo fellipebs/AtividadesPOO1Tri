@@ -1,0 +1,15 @@
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\bin\Debug\Turismo3B17.exe.config
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\bin\Debug\Turismo3B17.exe
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\bin\Debug\Turismo3B17.pdb
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\bin\Debug\MySql.Data.dll
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\bin\Debug\Google.Protobuf.dll
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\bin\Debug\MySql.Data.xml
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.csprojAssemblyReference.cache
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.Igreja.resources
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.Properties.Resources.resources
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.csproj.GenerateResource.cache
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.csproj.CoreCompileInputs.cache
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.csproj.CopyComplete
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.exe
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.pdb
+H:\POO\PrimeiroTrimestre\Turismo3B17\Turismo3B17\obj\Debug\Turismo3B17.frmMuseu.resources

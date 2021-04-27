@@ -1,0 +1,14 @@
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\bin\Debug\Prova1_3B_17.exe.config
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\bin\Debug\Prova1_3B_17.exe
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\bin\Debug\Prova1_3B_17.pdb
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\bin\Debug\MySql.Data.dll
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\bin\Debug\Google.Protobuf.dll
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\bin\Debug\MySql.Data.xml
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.csprojAssemblyReference.cache
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.Form1.resources
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.Properties.Resources.resources
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.csproj.GenerateResource.cache
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.csproj.CoreCompileInputs.cache
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.csproj.CopyComplete
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.exe
+H:\POO1Tri3B_17_FellipeBarcelos\Prova1_3B_17\Prova1_3B_17\obj\Debug\Prova1_3B_17.pdb
